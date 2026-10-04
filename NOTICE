@@ -1,0 +1,14 @@
+xreal-pixel-patches
+Copyright 2026 mightatnight
+
+This project builds on the nyan Real firmware kit by 8796n
+(https://github.com/8796n/nyan-real-firmware-kit), licensed under the Apache
+License, Version 2.0. The kit is included as an unmodified git submodule; its
+container, checksum and flashing code is imported from it, not copied.
+
+No firmware is distributed here: not XREAL's, not nyan's builds, and not the
+patched result. Users supply the input image themselves.
+
+XREAL, Air 2, Air 2 Pro, Google and Pixel are trademarks of their respective
+owners. This project is not affiliated with, endorsed by, or connected to XREAL,
+Google, or the nyan Real project.

@@ -1,0 +1,3 @@
+# Building needs only the Python standard library (3.10+).
+# Flashing uses the nyan Real firmware kit's flashers, which need hidapi:
+hidapi

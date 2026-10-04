@@ -1,0 +1,8 @@
+# Never commit firmware: not the vendor's, not nyan's outputs, not patched results.
+*.bin
+*.hex
+firmware/
+*.log
+__pycache__/
+*.pyc
+.venv/
